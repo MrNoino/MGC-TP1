@@ -17,4 +17,4 @@ consultar a exceção caso esta ocorra.
 Todos os outros ficheiros são ficheiros de suporte ao programa, contendo funções e dados a ler
 pelo programa.
 
-** Nuno Lopes **
+**Nuno Lopes**
